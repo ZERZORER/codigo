@@ -1,5 +1,5 @@
 def saluda(nombre)
-	puts "Hola #{nombre} desde GIT"
+	puts "Saludos desde Master #{nombre} desde GIT"
 end
 
 saluda('Pepe')
